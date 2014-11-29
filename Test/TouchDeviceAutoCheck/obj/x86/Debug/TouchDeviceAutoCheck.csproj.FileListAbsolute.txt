@@ -1,0 +1,12 @@
+C:\junkDev\Test\TouchDeviceAutoCheck\bin\Debug\TouchDeviceAutoCheck.exe
+C:\junkDev\Test\TouchDeviceAutoCheck\bin\Debug\TouchDeviceAutoCheck.pdb
+C:\junkDev\Test\TouchDeviceAutoCheck\obj\x86\Debug\TouchDeviceAutoCheck.csprojResolveAssemblyReference.cache
+C:\junkDev\Test\TouchDeviceAutoCheck\obj\x86\Debug\MainWindow.baml
+C:\junkDev\Test\TouchDeviceAutoCheck\obj\x86\Debug\MainWindow.g.cs
+C:\junkDev\Test\TouchDeviceAutoCheck\obj\x86\Debug\App.g.cs
+C:\junkDev\Test\TouchDeviceAutoCheck\obj\x86\Debug\TouchDeviceAutoCheck_MarkupCompile.cache
+C:\junkDev\Test\TouchDeviceAutoCheck\obj\x86\Debug\TouchDeviceAutoCheck.g.resources
+C:\junkDev\Test\TouchDeviceAutoCheck\obj\x86\Debug\TouchDeviceAutoCheck.Properties.Resources.resources
+C:\junkDev\Test\TouchDeviceAutoCheck\obj\x86\Debug\TouchDeviceAutoCheck.csproj.GenerateResource.Cache
+C:\junkDev\Test\TouchDeviceAutoCheck\obj\x86\Debug\TouchDeviceAutoCheck.exe
+C:\junkDev\Test\TouchDeviceAutoCheck\obj\x86\Debug\TouchDeviceAutoCheck.pdb

@@ -1,0 +1,8 @@
+﻿<Window x:Class="TouchDeviceAutoCheck.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" WindowState="Maximized" WindowStyle="None">
+    <Canvas Name="myCanvas" Background="Black" TouchDown="myCanvas_TouchDown" TouchMove="myCanvas_TouchMove" TouchUp="myCanvas_TouchUp">
+
+    </Canvas>
+</Window>
